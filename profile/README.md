@@ -4,6 +4,9 @@ Independent electronic music label, San Diego. This is the map of everything
 that runs the operation. Each repo has an `OPERATIONS.md` with the full detail:
 what it does, env vars, failure modes, and how to verify it's healthy.
 
+**New here? Read [ONBOARDING.md](https://github.com/daisychainsd/.github/blob/main/ONBOARDING.md) first** —
+the whole operation explained in plain English, no meeting required.
+
 ## Systems
 
 | Repo | What it runs | Deployed at |
