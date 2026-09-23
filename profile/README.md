@@ -8,3 +8,5 @@ Independent electronic music label, San Diego.
 - [Physical order dashboard](https://www.daisychainsd.com/ops/merch) — password-protected order queue and Pirate Ship export.
 
 The [September 22 order-recovery record](https://github.com/daisychainsd/daisychain-site/blob/main/ORDER-RECOVERY-2026-09-22.md) tracks restored website orders and the exact deployment status of automatic reconciliation. Shopify remains the product catalog while physical fulfillment moves through Supabase Ops and Pirate Ship; the catalog/inventory replacement is a separate unfinished rollout.
+
+Physical website and Bandcamp orders share [Merch Ops](https://www.daisychainsd.com/ops/merch). Digital Bandcamp sales are excluded. [Bandcamp sync and activation](https://github.com/daisychainsd/daisychain-site/blob/main/BANDCAMP-ORDERS-2026-09-22.md).
